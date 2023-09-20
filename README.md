@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lillian Yang</h1>
 <h3 align="center">A passionate frontend developer with UI/UX designer experience</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lillian0624" alt="lillian0624" /></a> </p>
+- 🌱 I’m currently learning **React,Next, Stable Difussion, Midjourney**
 
-- 🌱 I’m currently learning **React,Next,Stable Difussion,Midjourney**
-
-- 👩‍💻 I’m looking for **React,frontend,UI/UX job opportunites**
+- 👩‍💻 I’m looking for **React,frontend, UI/UX job opportunities**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
