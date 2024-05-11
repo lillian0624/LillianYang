@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lillian Yang</h1>
 <h3 align="center">A passionate frontend developer with UI/UX designer experience</h3>
 
-- 🌱 I’m currently learning **React,Next, Stable Difussion, Midjourney**
+- 🌱 I’m currently learning **React, Next, PHP **
 
-- 👩‍💻 I’m looking for **React,frontend, UI/UX job opportunities**
+- 👩‍💻 I’m looking for **React, frontend, UI/UX job opportunities**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
