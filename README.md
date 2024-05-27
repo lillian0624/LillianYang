@@ -11,7 +11,8 @@
 - Soft Skills: Proficient in English, Strong Design Sense
 - Additional: PHP
 
-- 👩‍💻 I’m looking for **React, front-end, UI/UX job opportunities**
+ 
+ 👩‍💻 I’m looking for **React, front-end, UI/UX job opportunities**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
