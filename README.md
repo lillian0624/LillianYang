@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Lillian Yang</h1>
 <h3 align="center">A passionate frontend developer with UI/UX designer experience</h3>
 
-- 🌱  Core Technical Skills:
-• Languages: JavaScript/TypeScript, (HTML/SCSS), C
-• Frameworks & Libraries: React
-• Version Control: GitHub
-• Server: npm, REST
-• Tools: Figma
-• Methodologies: Agile
-• Soft Skills: English, Design
-• Additional: PHP, Docker, Unix, Bash, Linux
+**🌱  Core Technical Skills:**
+- Languages: JavaScript/TypeScript, (HTML/SCSS), C
+- Frameworks & Libraries: React
+- Version Control: GitHub
+- Server: npm, REST
+- Tools: Figma
+- Methodologies: Agile
+- Soft Skills: English, Design
+- Additional: PHP, Docker, Unix, Bash, Linux
 
-- 👩‍💻 I’m looking for **React,frontend,UI/UX job opportunites**
+- 👩‍💻 I’m looking for **React, front-end, UI/UX job opportunities**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
