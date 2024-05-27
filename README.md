@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lillian Yang</h1>
 <h3 align="center">A passionate frontend developer with UI/UX designer experience</h3>
 
-- 🌱 I’m currently learning **React,Next,php**
+- 🌱  Core Technical Skills:
+• Languages: JavaScript/TypeScript, (HTML/SCSS), C
+• Frameworks & Libraries: React
+• Version Control: GitHub
+• Server: npm, REST
+• Tools: Figma
+• Methodologies: Agile
+• Soft Skills: English, Design
+• Additional: PHP, Docker, Unix, Bash, Linux
 
 - 👩‍💻 I’m looking for **React,frontend,UI/UX job opportunites**
 
