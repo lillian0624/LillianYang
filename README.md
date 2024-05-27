@@ -2,14 +2,14 @@
 <h3 align="center">A passionate frontend developer with UI/UX designer experience</h3>
 
 **🌱  Core Technical Skills:**
-- Languages: JavaScript/TypeScript, (HTML/SCSS), C
+- Languages: JavaScript, TypeScript, HTML, SCSS, C
 - Frameworks & Libraries: React
-- Version Control: GitHub
-- Server: npm, REST
-- Tools: Figma
+- Version Control: Git, GitHub
+- Server & Tools: npm, REST APIs, Docker, Bash, Linux
+- Design Tools: Figma, Adobe Creative Suite
 - Methodologies: Agile
-- Soft Skills: English, Design
-- Additional: PHP, Docker, Unix, Bash, Linux
+- Soft Skills: Proficient in English, Strong Design Sense
+- Additional: PHP
 
 - 👩‍💻 I’m looking for **React, front-end, UI/UX job opportunities**
 
